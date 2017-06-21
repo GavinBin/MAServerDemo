@@ -1,0 +1,31 @@
+{
+  "name": "MAServerDemo",
+  "version": "0.1.0",
+  "summary": "A short description of MAServerDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/klwanshua@163.com/MAServerDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "klwanshua@163.com": "wangbingi@yonyou.com"
+  },
+  "source": {
+    "git": "https://github.com/klwanshua@163.com/MAServerDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MAServerDemo/Classes/**/*",
+  "frameworks": "UIKit",
+  "dependencies": {
+    "AFNetworking": [
+
+    ],
+    "MBProgressHUD": [
+
+    ]
+  }
+}
