@@ -1,0 +1,6 @@
+framework module MAServerDemo {
+  umbrella header "MAServerDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
